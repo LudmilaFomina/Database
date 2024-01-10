@@ -1,6 +1,6 @@
 Database:    
 Name - Date of birth.
-
+__________
 Available commands:    
 init - create a new database    
 add 'Name Date of Birth' - add 'Name Date of Birth'    
