@@ -1,8 +1,8 @@
-Database:    
-Name - Date of birth.
+### Database
+Name - Date of birth matching.
 __________
-Available commands:    
-init - create a new database    
+#### Available commands
+init - create a new database
 add 'Name Date of Birth' - add 'Name Date of Birth'    
 read 'Name' - show data for 'Name'    
 readall - show the entire database    
